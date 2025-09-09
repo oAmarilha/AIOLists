@@ -122,6 +122,7 @@ const tmdbLanguages = [
   { iso_639_1: "pi", english_name: "Pali" },
   { iso_639_1: "pl", english_name: "Polish" },
   { iso_639_1: "pt", english_name: "Portuguese" },
+  { iso_639_1: "pt-BR", english_name: "Brazilian Portuguese" },
   { iso_639_1: "qu", english_name: "Quechua" },
   { iso_639_1: "rm", english_name: "Raeto-Romance" },
   { iso_639_1: "ro", english_name: "Romanian" },
